@@ -73,7 +73,6 @@ body, html, table, form, textarea{
 	background-color: #E1F2F9; 
 /*	height: 1px; */  
 	position: absolute;
-	z-index: 5;
 	top: -100px;
 	padding: 0;
 	white-space: pre;
